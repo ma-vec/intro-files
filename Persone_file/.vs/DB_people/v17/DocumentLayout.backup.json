@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MRA\\Informatica\\cl4\\DB_people\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E59DE8-6F95-4A8E-AC48-3B23F683E694}|DB_people.csproj|f:\\mra\\informatica\\cl4\\db_people\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E59DE8-6F95-4A8E-AC48-3B23F683E694}|DB_people.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E59DE8-6F95-4A8E-AC48-3B23F683E694}|DB_people.csproj|f:\\mra\\informatica\\cl4\\db_people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E59DE8-6F95-4A8E-AC48-3B23F683E694}|DB_people.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E59DE8-6F95-4A8E-AC48-3B23F683E694}|DB_people.csproj|F:\\MRA\\Informatica\\cl4\\DB_people\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48E59DE8-6F95-4A8E-AC48-3B23F683E694}|DB_people.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\MRA\\Informatica\\cl4\\DB_people\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "F:\\MRA\\Informatica\\cl4\\DB_people\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:44:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\MRA\\Informatica\\cl4\\DB_people\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\MRA\\Informatica\\cl4\\DB_people\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwJgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:39:17.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "F:\\MRA\\Informatica\\cl4\\DB_people\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\MRA\\Informatica\\cl4\\DB_people\\Form1.cs [Progettazione]*",
+              "RelativeToolTip": "Form1.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:35:06.42Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
